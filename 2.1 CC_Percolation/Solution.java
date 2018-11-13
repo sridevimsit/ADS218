@@ -26,7 +26,7 @@ public class Solution
 		{
 			r = scan.nextInt();
 			c = scan.nextInt();
-			System.out.println("r = " + r + "c = " + c);
+		//	System.out.println("r = " + r + "c = " + c);
 			p.open(r,c);
 
 		} 
